@@ -1,5 +1,11 @@
 # CountryApp
 
+El objetivo es hacer uso de la API REST countries que permita mostrar información de paises, capitales, regiones y asi mismo un pequeño apartado para ver los detalles de estos.
+
+Proyecto enfocado en hacer uso de lazyloading, debouncer, peticiones http, localstorage, @Input, @Output, entre otros
+
+No es una app responsive ya que el objetivo es etender y aplicar diferentes funcionalidades de Angular, sin embargo hacemos uso de Bootstrap para agilizar el proceso de maquetación de algunos componentes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
